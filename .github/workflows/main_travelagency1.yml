@@ -63,4 +63,4 @@ jobs:
           app-name: 'travelagency1'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7CAAE746AC944B13962F24E42E4EFEAE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A150005268CD443DAB0797FB34C3A61E }}
